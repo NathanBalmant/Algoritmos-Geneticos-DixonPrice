@@ -79,11 +79,5 @@ java Principal
 
 3. O resultado será salvo em `resultado.txt`.
 
-## 📚 Referências
 
-- Dixon, L.C.W., & Price, R.S. (1987). "The global optimization problem: an introduction".
-- Molga & Smutnicki (2005). "Test functions for optimization needs".
 
-## 📌 Observações
-
-Você também pode adaptar o código facilmente para outras funções de benchmark, como Langermann ou Schwefel, trocando apenas a classe de indivíduo (`Ind`).
